@@ -143,11 +143,3 @@ This will allow you to access files stored on your Drive.
 - [GloVe Embeddings](https://nlp.stanford.edu/projects/glove/)
 
 ---
-
- Contributors
-
-- ABHIRAM G
-  https://github.com/abhiramg471	  
-  abhiramg471@gmail.com
-
----
